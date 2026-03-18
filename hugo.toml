@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "LofiCode Hugo Theme"
+title = "Blog / portfolio Mikan"
 theme = "loficode"
 
 # Enable emoji support
@@ -30,12 +30,12 @@ enableEmoji = true
 
 [params]
   description = "A cozy example site showcasing the LofiCode Hugo theme"
-  tagline = "Coding with coffee and lo-fi beats ☕🎵"
+  tagline = "Writing with matcha and lo-fi beats ☕🎵"
 
   # Profile section
   [params.author]
-    name = "LofiCode Dev"
-    image = "images/profile.png"
+    name = "Blog writer"
+    image = "images/Photo profil.jpg"
 
   # Social links - Supported platforms: github, twitter, linkedin, email, mastodon, youtube, instagram, facebook
   [params.social]

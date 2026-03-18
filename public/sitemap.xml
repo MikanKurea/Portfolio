@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/dialogue/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/oula/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/f%C3%A9minisme/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sororit%C3%A9/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-15T14:30:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cozy/</loc>
     <lastmod>2025-01-01T10:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +35,7 @@
     <loc>http://localhost:1313/tags/lofi/</loc>
     <lastmod>2025-01-01T10:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-01T10:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/theme/</loc>
-    <lastmod>2025-01-01T10:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-01T10:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/welcome-to-loficode/</loc>

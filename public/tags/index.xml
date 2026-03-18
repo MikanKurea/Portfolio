@@ -1,13 +1,55 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LofiCode Hugo Theme</title>
+    <title>Tags on Blog / portfolio Mikan</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on LofiCode Hugo Theme</description>
+    <description>Recent content in Tags on Blog / portfolio Mikan</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2025 10:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 14:30:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dialogue</title>
+      <link>http://localhost:1313/tags/dialogue/</link>
+      <pubDate>Tue, 17 Mar 2026 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dialogue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Féminisme</title>
+      <link>http://localhost:1313/tags/f%C3%A9minisme/</link>
+      <pubDate>Tue, 17 Mar 2026 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/f%C3%A9minisme/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Société</title>
+      <link>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</link>
+      <pubDate>Tue, 17 Mar 2026 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/soci%C3%A9t%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sororité</title>
+      <link>http://localhost:1313/tags/sororit%C3%A9/</link>
+      <pubDate>Tue, 17 Mar 2026 14:30:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/sororit%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Café</title>
+      <link>http://localhost:1313/tags/caf%C3%A9/</link>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/caf%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Concepts</title>
+      <link>http://localhost:1313/tags/concepts/</link>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/concepts/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cozy</title>
       <link>http://localhost:1313/tags/cozy/</link>
@@ -16,24 +58,10 @@
       <description></description>
     </item>
     <item>
-      <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <title>Identité</title>
+      <link>http://localhost:1313/tags/identit%C3%A9/</link>
       <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lofi</title>
-      <link>http://localhost:1313/tags/lofi/</link>
-      <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lofi/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
-      <pubDate>Wed, 01 Jan 2025 10:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/theme/</guid>
+      <guid>http://localhost:1313/tags/identit%C3%A9/</guid>
       <description></description>
     </item>
     <item>
@@ -139,6 +167,27 @@
       <link>http://localhost:1313/tags/lifestyle/</link>
       <pubDate>Fri, 05 Jan 2024 08:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lofi</title>
+      <link>http://localhost:1313/tags/lofi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lofi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Theme</title>
+      <link>http://localhost:1313/tags/theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/theme/</guid>
       <description></description>
     </item>
   </channel>
